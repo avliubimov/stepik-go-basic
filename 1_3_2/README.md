@@ -1,3 +1,4 @@
+# [1.3.2](https://stepik.org/lesson/917010/step/9?unit=922789)
 А теперь нужно поздороваться с направлением `PRO Go`. Исправьте предыдущую программу и выведите "Hello, PRO Go!".
  
 
@@ -9,5 +10,5 @@ ___
 ___
 **Sample Output:**
 
-Hello, PRO Go!
+`Hello, PRO Go!`
 ___
